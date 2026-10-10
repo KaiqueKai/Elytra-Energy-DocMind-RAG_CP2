@@ -1,0 +1,44 @@
+{
+  "documentos": {
+    "01_inmetro_condicionadores_de_ar_2025.pdf": {
+      "fonte": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/condicionadores-de-ar/condicionadores-de-ar-2025.pdf/view",
+      "data": "2025",
+      "categoria": "Climatização",
+      "tipo": "PDF",
+      "instituicao": "INMETRO",
+      "max_paginas": 40
+    },
+    "02_inmetro_refrigeradores_2025.pdf": {
+      "fonte": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/refrigeradores-frigobares-combinados-combinados-frost-free/refrigerador.pdf/view",
+      "data": "2025",
+      "categoria": "Refrigeração",
+      "tipo": "PDF",
+      "instituicao": "INMETRO",
+      "max_paginas": 40
+    },
+    "03_inmetro_ventiladores_2025.pdf": {
+      "fonte": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/ventiladores/ventiladores-de-mesa-coluna-e-circuladores-de-ar.pdf/view",
+      "data": "2025",
+      "categoria": "Ventilação",
+      "tipo": "PDF",
+      "instituicao": "INMETRO",
+      "max_paginas": 40
+    },
+    "04_epe_atlas_eficiencia_energetica_2024.pdf": {
+      "fonte": "https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/atlas-de-eficiencia-energetica-brasil-2024",
+      "data": "2024",
+      "categoria": "Indicadores energéticos",
+      "tipo": "PDF",
+      "instituicao": "EPE",
+      "max_paginas": 120
+    },
+    "05_mme_guia_eficiencia_energetica_edificios_publicos.pdf": {
+      "fonte": "https://www.gov.br/mme/pt-br/centrais-de-conteudo/publicacoes/eficiencia-energetica/guia-de-eficiencia-energetica-em-edificios-publicos.pdf/@@download/file",
+      "data": "2015",
+      "categoria": "Eficiência energética em edificações",
+      "tipo": "PDF",
+      "instituicao": "MME/CEPEL",
+      "max_paginas": 60
+    }
+  }
+}

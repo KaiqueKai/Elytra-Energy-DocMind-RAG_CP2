@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Quais sistemas e equipamentos são tratados no Guia para Eficiência Energética nas Edificações Públicas do MME?",
+    "ground_truth": "O guia trata de sistemas como ar-condicionado, iluminação, envoltória e aspectos construtivos, aquecimento solar de água, elevadores e sistemas de supervisão, controle e aquisição de dados."
+  },
+  {
+    "question": "O que a etiqueta de eficiência energética do Inmetro (PBE) informa sobre os condicionadores de ar?",
+    "ground_truth": "A tabela do Programa Brasileiro de Etiquetagem do Inmetro apresenta os modelos de condicionadores de ar com seus dados de desempenho e a classificação de eficiência energética."
+  },
+  {
+    "question": "Que informações constam na tabela do Inmetro para refrigeradores e como usá-las ao comparar modelos?",
+    "ground_truth": "A tabela do Inmetro lista modelos de refrigeradores com dados de consumo e classificação de eficiência, que permitem comparar modelos de mesma categoria."
+  },
+  {
+    "question": "Como a EPE acompanha o progresso da eficiência energética no Brasil no Atlas da Eficiência Energética?",
+    "ground_truth": "O Atlas da Eficiência Energética Brasil monitora o progresso por meio de indicadores de eficiência energética, incluindo análises por setor."
+  },
+  {
+    "question": "O que o Inmetro informa sobre ventiladores de mesa, coluna e circuladores de ar na tabela de eficiência energética?",
+    "ground_truth": "A tabela do Inmetro apresenta os ventiladores de mesa, coluna e circuladores de ar registrados no programa de etiquetagem, com seus dados de desempenho."
+  }
+]

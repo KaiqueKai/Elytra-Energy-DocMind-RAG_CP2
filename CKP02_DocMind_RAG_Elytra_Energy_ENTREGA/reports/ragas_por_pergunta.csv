@@ -1,0 +1,11 @@
+﻿chunk_size,overlap,question,faithfulness,answer_relevancy
+512,61,Quais sistemas e equipamentos são tratados no Guia para Eficiência Energética nas Edificações Públicas do MME?,1.0,0.6539607992259555
+512,61,O que a etiqueta de eficiência energética do Inmetro (PBE) informa sobre os condicionadores de ar?,1.0,0.8543054146487923
+512,61,Que informações constam na tabela do Inmetro para refrigeradores e como usá-las ao comparar modelos?,1.0,0.0
+512,61,Como a EPE acompanha o progresso da eficiência energética no Brasil no Atlas da Eficiência Energética?,1.0,0.9674198079759131
+512,61,"O que o Inmetro informa sobre ventiladores de mesa, coluna e circuladores de ar na tabela de eficiência energética?",0.875,0.0
+1024,123,Quais sistemas e equipamentos são tratados no Guia para Eficiência Energética nas Edificações Públicas do MME?,1.0,0.7218768661194173
+1024,123,O que a etiqueta de eficiência energética do Inmetro (PBE) informa sobre os condicionadores de ar?,1.0,0.0
+1024,123,Que informações constam na tabela do Inmetro para refrigeradores e como usá-las ao comparar modelos?,1.0,0.963025182421774
+1024,123,Como a EPE acompanha o progresso da eficiência energética no Brasil no Atlas da Eficiência Energética?,1.0,0.9496411049873545
+1024,123,"O que o Inmetro informa sobre ventiladores de mesa, coluna e circuladores de ar na tabela de eficiência energética?",1.0,0.9446702036131297

@@ -1,0 +1,16 @@
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langchain-openai
+chromadb
+numpy
+pydantic
+python-dotenv
+pypdf
+requests
+gradio
+ragas>=0.2.10,<0.4
+datasets
+pytest
+# Opcional para ativar o reranker: sentence-transformers
